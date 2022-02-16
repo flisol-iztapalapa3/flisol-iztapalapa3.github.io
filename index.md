@@ -1,4 +1,4 @@
-[Instaladores](https://github.com/flisol-iztapalapa3/flisol-iztapalapa3.github.io/edit/main/index.md) | [Conferencistas](https://github.com/flisol-iztapalapa3/flisol-iztapalapa3.github.io/edit/main/index.md) | [Talleristas](https://github.com/flisol-iztapalapa3/flisol-iztapalapa3.github.io/edit/main/index.md)
+[Instaladores](./instaladores.md) [Conferencistas](./conferencistas.md) [Talleristas](talleristas.md)
 
 ## Welcome to GitHub Pages
 
